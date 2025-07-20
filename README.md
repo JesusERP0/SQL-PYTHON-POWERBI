@@ -1,5 +1,5 @@
 # SQL-PYTHON-POWERBI
-Flujo de trabajo de un científico de datos, desde la exploración y preparación de datos con SQL, pasando por el modelado de Machine Learning con Python, hasta la visualización con Power BI.
+Flujo de trabajo de un científico de datos, desde la exploración y preparación de datos con SQL, pasando por el modelado de Machine Learning con Python, hasta la visualización con Power BI.//
 En concreto son 3 archivos en los que reafirmos mis conocimientos obtenicos tanto en el servicio social hecho en el Insituto Nacional de Medicina Genomica en Mexico, y en mi cursos de la carrera de Fisica en la UNAM. 
 El analisis se hizo con aprendisaje supervisado, en concreto, logistic regresson y Suport Vector Machine(svm)
 Primeramente se utilizo Sql para exploración y Preparación de Datos con SQL (Notebook SQL) para obtener los usuarios Vip que despues usaremos.
