@@ -1,7 +1,7 @@
 # SQL-PYTHON-POWERBI
 Flujo de trabajo de un científico de datos, desde la exploración y preparación de datos con SQL, pasando por el modelado de Machine Learning con Python, hasta la visualización con Power BI.
 
-En concreto son 3 archivos en los que reafirmos mis conocimientos obtenicos tanto en el servicio social hecho en el Insituto Nacional de Medicina Genomica en Mexico, y en mi cursos de la carrera de Fisica en la UNAM. 
+En concreto la carpeta "SQL-PYTHON-POWERBI" son 3 archivos en los que reafirmos mis conocimientos obtenicos tanto en el servicio social hecho en el Insituto Nacional de Medicina Genomica en Mexico, y en mi cursos de la carrera de Fisica en la UNAM. 
 
 El analisis se hizo con aprendisaje supervisado, en concreto, logistic regresson y Suport Vector Machine(svm)
 
@@ -12,3 +12,5 @@ Con python se hace un Modelado de Machine Learning (En Jupyter Notebook). Cargar
 Por ultimo se hizo una Visualización de Resultados con Power BI, en el cual nos Conectamos a la base de datos MySQL.
 
 Visualizaciones del Dashboard: Total de Clientes y Porcentaje VIP, Distribución de Clientes por País(En mapa coroplético), Gasto Total por País, Distribución del Gasto Total (Histograma), Comparación de Métricas entre VIP y No VIP, Tabla de Clientes con Predicciones y Segmentación de Predicciones por Distrito/Ciudad
+
+# Hay mas carpetas: Analisis de datos, Modelado de datos, Proyectos como Marketing y Deteccion de Fraude. Uso de Redes neuronales... 
