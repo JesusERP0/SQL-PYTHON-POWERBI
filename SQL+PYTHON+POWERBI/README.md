@@ -13,9 +13,9 @@ Flujo de trabajo de un científico de datos (**ETL + EDA + MODELADO**), desde la
 
 El analisis se hizo con aprendisaje supervisado, en concreto, **logistic regression** y **Suport Vector Machine(svm)**
 
-Primeramente se utilizo Sql para exploración y Preparación de Datos con SQL (Notebook SQL). Uso de CTEs, VIEWs, JOINs, COALESCE...
+Primeramente se utilizo SQL para exploración y Preparación de Datos (Notebook SQL). Uso de CTEs, VIEWs, JOINs, COALESCE...
 
-Con python se hace un Modelado de Machine Learning (En Jupyter Notebook). Cargaremos los datos preparados por SQL en Python con ayuda de sqlalchemy, realizaremos un análisis exploratorio de datos (EDA) rápido, preprocesaremos los datos y entrenaremos un modelo de clasificación para predecir si un cliente es VIP. Se entrenaron dos modelos, utilizando solo la prediccion obtenida de Logistic Regression. Tambien guardamos las predicciones obtenidas de python en mysql para despues poder conectarnos a sql con Power Bi.
+Con Python se hace un Modelado de Machine Learning (En Jupyter Notebook). Cargaremos los datos preparados por SQL en Python con ayuda de sqlalchemy, realizaremos un análisis exploratorio de datos (EDA) rápido, preprocesaremos los datos y entrenaremos un modelo de clasificación para predecir si un cliente es VIP. Se entrenaron dos modelos, utilizando solo la prediccion obtenida de Logistic Regression. Tambien guardamos las predicciones obtenidas de python en mysql para despues poder conectarnos a sql con Power Bi.
 
 Por ultimo se hizo una Visualización de Resultados con Power BI, en el cual nos Conectamos a la base de datos MySQL.
 
