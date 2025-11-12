@@ -13,7 +13,7 @@ Flujo de trabajo de un científico de datos (**ETL + EDA + MODELADO**), desde la
 
 En concreto la carpeta "SQL-PYTHON-POWERBI" son 3 archivos en los que reafirmos mis conocimientos obtenicos tanto en el servicio social hecho en el Insituto Nacional de Medicina Genomica en Mexico, y en mi cursos de la carrera de Fisica en la UNAM. 
 
-El analisis se hizo con aprendisaje supervisado, en concreto, **logistic regresson** y **Suport Vector Machine(svm)**
+El analisis se hizo con aprendisaje supervisado, en concreto, **logistic regression** y **Suport Vector Machine(svm)**
 
 Primeramente se utilizo Sql para exploración y Preparación de Datos con SQL (Notebook SQL). Uso de CTEs, VIEWs, JOINs, COALESCE...
 
