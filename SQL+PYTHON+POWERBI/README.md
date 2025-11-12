@@ -1,7 +1,7 @@
 # SQL-PYTHON-POWERBI
 Flujo de trabajo de un científico de datos, desde la exploración y preparación de datos con SQL, pasando por el modelado de Machine Learning con Python, hasta la visualización con Power BI. Se ultilizara la base de datos Saklia proporcionada por MySql.
 
-Descripción de la base de datos
+Descripción de la base de datos:
 
 La base de datos de ejemplo Sakila es una base de datos ficticia diseñada para representar una tienda de alquiler de DVD. Sus tablas incluyen, entre otras, las de película, categoría de película, actor, cliente, alquiler, pago e inventario. En concreto se realizara un filtro para obtener los usuarios Vip.
 
