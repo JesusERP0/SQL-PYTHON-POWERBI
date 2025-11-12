@@ -1,5 +1,5 @@
 # SQL-PYTHON-POWERBI
-Flujo de trabajo de un científico de datos, desde la exploración y preparación de datos con SQL, pasando por el modelado de Machine Learning con Python, hasta la visualización con Power BI. Se ultilizara la base de datos Saklia proporcionada por MySql.
+Flujo de trabajo de un científico de datos, desde la exploración y preparación de datos con SQL, pasando por el modelado de Machine Learning con Python, hasta la visualización con Power BI. Se ultilizara la base de datos Sakila de MySql.
 
 Descripción de la base de datos:
 
