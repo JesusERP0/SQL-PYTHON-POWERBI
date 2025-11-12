@@ -19,7 +19,7 @@ SELECT * FROM inventory LIMIT 10;
 
 
 -- -------------------------------------------------------------------
--- FASE 2 y 3: Ingeniería de Características y Consolidación con CTEs para la Vista
+-- Ingeniería de Características y Consolidación con CTEs para la Vista
 -- Objetivo: Unir todas las características y definir la variable objetivo
 --           directamente dentro de la definición de la vista,
 --           asegurando que todas las CTEs estén definidas
@@ -28,7 +28,7 @@ SELECT * FROM inventory LIMIT 10;
 
 -- Creación de una Vista Permanente para el análisis de clientes
 -- Esta vista contendrá todas las características y la variable objetivo 'is_vip',
--- además de las predicciones del modelo de ML que guardarás en 'customer_ml_predictions'.
+-- además de las predicciones del modelo de ML gurdadas posteriormente en 'customer_ml_predictions'.
 CREATE OR REPLACE VIEW v_customer_analysis AS
 WITH
     -- CTE 1: Calcular el total gastado por cada cliente
