@@ -7,7 +7,7 @@ El analisis se hizo con aprendisaje supervisado, en concreto, logistic regresson
 
 Primeramente se utilizo Sql para exploración y Preparación de Datos con SQL (Notebook SQL) para obtener los usuarios Vip que despues usaremos.
 
-Con python se hace un Modelado de Machine Learning (En Jupyter Notebook). Cargaremos los datos preparados por SQL en Python con ayuda de sqlalchemy, realizaremos un análisis exploratorio de datos (EDA) rápido, preprocesaremos los datos y entrenaremos un modelo de clasificación para predecir si un cliente es VIP. Se entrenaron dos modelos, utilizando solo la prediccion obtenida de Logistic Regression. Tambien guardamos las predicciones obtenidas de python en mysql para despues poderlos utilizar en power bi
+Con python se hace un Modelado de Machine Learning (En Jupyter Notebook). Cargaremos los datos preparados por SQL en Python con ayuda de sqlalchemy, realizaremos un análisis exploratorio de datos (EDA) rápido, preprocesaremos los datos y entrenaremos un modelo de clasificación para predecir si un cliente es VIP. Se entrenaron dos modelos, utilizando solo la prediccion obtenida de Logistic Regression. Tambien guardamos las predicciones obtenidas de python en mysql para despues poder conectarnos a sql con Power Bi.
 
 Por ultimo se hizo una Visualización de Resultados con Power BI, en el cual nos Conectamos a la base de datos MySQL.
 
