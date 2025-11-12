@@ -9,9 +9,7 @@ Flujo de trabajo de un científico de datos (ETL + EDA + MODELADO), desde la exp
 
 **Objetivo de Power BI**: Crear un dashboard interactivo que visualice los resultados del análisis y las predicciones, permitiendo a la gerencia explorar los datos.
 
-**Descripción de la base de datos:**
-
-La base de datos de ejemplo Sakila es una base de datos ficticia diseñada para representar una tienda de alquiler de DVD. Sus tablas incluyen, entre otras, las de película, categoría de película, actor, cliente, alquiler, pago e inventario. En concreto se realizara un filtro para obtener los usuarios Vip.
+**Descripción de la base de datos**:La base de datos de ejemplo Sakila es una base de datos ficticia diseñada para representar una tienda de alquiler de DVD. Sus tablas incluyen, entre otras, las de película, categoría de película, actor, cliente, alquiler, pago e inventario. En concreto se realizara un filtro para obtener los usuarios Vip.
 
 En concreto la carpeta "SQL-PYTHON-POWERBI" son 3 archivos en los que reafirmos mis conocimientos obtenicos tanto en el servicio social hecho en el Insituto Nacional de Medicina Genomica en Mexico, y en mi cursos de la carrera de Fisica en la UNAM. 
 
