@@ -5,9 +5,9 @@ Flujo de trabajo de un científico de datos (**ETL + EDA + MODELADO**), desde la
 
 **Objetivo de SQL**: Extraer y preparar un dataset que contenga información de clientes y sus historiales de alquiler, incluyendo el valor total gastado y la frecuencia.
 
-**Objetivo de Python (ML)**: Construir un modelo de clasificación para predecir si un cliente es un "cliente VIP" (definido por el gasto total) basado en sus características.
+**Objetivo de Python (ML)**: Cargar los datos preparados por SQL con ayudada de sqlalchemy y construir un modelo de clasificación para predecir si un cliente es un "cliente VIP" (definido por el gasto total) basado en sus características.
 
-**Objetivo de Power BI**: Crear un dashboard interactivo que visualice los resultados del análisis y las predicciones, permitiendo a la gerencia explorar los datos.
+**Objetivo de Power BI**: Crear un dashboard interactivo que visualice los resultados del análisis y las predicciones, permitiendo explorar los datos.
 
 **Descripción de la base de datos**:La base de datos de ejemplo Sakila es una base de datos ficticia diseñada para representar una tienda de alquiler de DVD. Sus tablas incluyen, entre otras, las de película, categoría de película, actor, cliente, alquiler, pago e inventario. En concreto se realizara un filtro para obtener los usuarios Vip.
 
