@@ -19,4 +19,4 @@ Con Python se hace un Modelado de Machine Learning (En Jupyter Notebook). Cargar
 
 Por ultimo se hizo una Visualización de Resultados con Power BI, en el cual nos Conectamos a la base de datos MySQL.
 
-Visualizaciones del Dashboard: Total de Clientes y Porcentaje VIP, Distribución de Clientes por País(En mapa coroplético), Gasto Total por País, Distribución del Gasto Total (Histograma), Comparación de Métricas entre VIP y No VIP, Tabla de Clientes con Predicciones y Segmentación de Predicciones por Distrito/Ciudad
+**Visualizaciones del Dashboard**: Total de Clientes y Porcentaje VIP, Distribución de Clientes por País(En mapa coroplético), Gasto Total por País, Distribución del Gasto Total (Histograma), Comparación de Métricas entre VIP y No VIP, Tabla de Clientes con Predicciones y Segmentación de Predicciones por Distrito/Ciudad
