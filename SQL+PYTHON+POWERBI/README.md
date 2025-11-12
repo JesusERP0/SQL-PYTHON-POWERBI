@@ -1,9 +1,7 @@
 # SQL-PYTHON-POWERBI
 Flujo de trabajo de un científico de datos (ETL + EDA + MODELADO), desde la exploración y preparación de datos con SQL, pasando por el modelado de Machine Learning con Python, hasta la visualización con Power BI. Se ultilizara la base de datos Sakila de MySql. 
 
-Objetivo general:
-
-Nuestro objetivo será predecir el "valor" de un cliente o analizar patrones de alquiler para optimizar inventarios y promociones.
+Objetivo general: Nuestro objetivo será predecir el "valor" de un cliente o analizar patrones de alquiler para optimizar inventarios y promociones.
 
 Objetivo de SQL: Extraer y preparar un dataset que contenga información de clientes y sus historiales de alquiler, incluyendo el valor total gastado y la frecuencia.
 
